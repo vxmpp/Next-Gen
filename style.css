@@ -1,0 +1,138 @@
+header {
+    height: 400px;
+    padding: 0;
+    display : inline;
+    width: 400px;
+}
+
+header a {
+    margin-right: 25px;
+}
+
+.homo-img {
+    width : 200px;
+    height : 200px;
+}
+
+.nav-x {
+display: inline;
+padding: 10px;
+bottom: 100px;
+position: relative;
+margin-left: 100px;
+right: 60px;
+}
+
+.text-homo {
+color: #E8ADAA;
+position: relative;
+bottom: 100px;
+display: inline;
+padding: 100px;
+width: auto;
+height: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu_item--black {
+    display: inline-block;
+    color: white;
+    background-color: #E8ADAA;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.Welcome-text {
+    width: auto;
+    height: auto;
+    position: relative;
+    left: 550px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.go2gle {
+    display: inline-block;
+    color: white;
+    background-color: #E8ADAA;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    position: relative;
+    left: 23px;
+}
+
+.H-1_home {
+position: relative;
+left: 200px;
+top: 50px;
+}
+
+.Welc-2 {
+position: relative;
+left: 400px;
+top: 80px;
+}
+
+.uc-1 {
+    position: relative;
+    left: 500px;
+}
+
+.ex-h {
+    position: relative;
+    top: 160px;
+    left: 300px;
+}
+
+
+.slash-h {
+    position: relative;
+    top: 135px;
+    left: 530px;
+}
+
+.h-li {
+    position: relative;
+    display: inline-block;
+    color: white;
+    background-color: #E8ADAA;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    top: 187px;
+    left: 572px;
+}
+
+.h-su {
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    background-color: #E8ADAA;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    top: 187px;
+    left: 340px;
+}
+
+.acc-issue {
+position: relative;
+left: 900px;
+}
+
+.back2index {
+    position: relative;
+    left: 50px;
+    top: 300px;
+    display: inline-block;
+    color: white;
+    background-color: #E8ADAA;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
